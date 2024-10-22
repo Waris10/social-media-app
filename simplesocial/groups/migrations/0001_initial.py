@@ -40,7 +40,7 @@ class Migration(migrations.Migration):
         ),
         migrations.AddField(
             model_name='group',
-            name='memebers',
+            name='members',
             field=models.ManyToManyField(through='groups.GroupMember', to=settings.AUTH_USER_MODEL),
         ),
     ]
