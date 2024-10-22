@@ -1,4 +1,4 @@
-# Django Project: SimpleSocial
+# Django Project: Simple Social Media App
 
 A social media web application built with Django that allows users to create accounts, join groups, and post content and many more. This project demonstrates the implementation of user authentication, groups, post features and many more. It is a cloned project from a Django bootcamp 
 
