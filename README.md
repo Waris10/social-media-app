@@ -9,9 +9,6 @@ A social media web application built with Django that allows users to create acc
 - [Installation](#installation)
 - [Environment Variables](#environment-variables)
 - [Usage](#usage)
-- [Running Tests](#running-tests)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 SimpleSocial is a social media platform built using Django, where users can:
@@ -100,6 +97,3 @@ After starting the server, you can:
 - Join existing groups or create new ones.
 - Post content in the groups you're part of.
 - View and manage your posts.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
